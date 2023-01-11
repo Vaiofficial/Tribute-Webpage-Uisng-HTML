@@ -1,0 +1,13 @@
+body{
+
+    background-color: hsl(54, 84%, 49%);
+}
+#image{
+    border: 3px solid black;
+    
+}
+
+.para{
+
+    font-size: 15px solid black;
+}
